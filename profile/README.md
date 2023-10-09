@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/ConnectingChips/ConnectingChips-Front/assets/77181642/b798c526-2f33-476d-b4de-8a841411d349" />
-  <h2>작심삼칩</h2>
+  <h1>작심삼칩</h1>
   <p>‘작심삼칩’은 작심삼일+chips의 합성어로 운동이 부족한 직장인을 대상으로 한 운동 미션 모바일 웹 서비스입니다. 작심삼일로 끝나지 않도록 함께 모여 운동 동기를 부여하고 목표를 성공적으로 달성하도록 돕습니다.</p>
 </div>
 
