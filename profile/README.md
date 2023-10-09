@@ -36,7 +36,7 @@
     </td>
 <!-- 디자이너 -->
     <td>
-      <a href="">
+      <a href="https://sohnseirim.wixsite.com/portfolio">
         <img src="https://github.com/ConnectingChips/ConnectingChips-Front/assets/77181642/b5dff2ca-ba68-4afe-b705-08b92d386bec" width="200px"/>
       </a>
     </td>
@@ -90,7 +90,7 @@
     </td>
 <!-- 디자이너 -->
     <td align="center">
-        <a href="">세림</a>
+        <a href="https://sohnseirim.wixsite.com/portfolio">세림</a>
     </td>
 <!-- FE (형욱) -->
     <td align="center">
