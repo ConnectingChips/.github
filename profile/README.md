@@ -34,7 +34,7 @@
         <img src="https://github.com/ConnectingChips/ConnectingChips-Front/assets/77181642/b5dff2ca-ba68-4afe-b705-08b92d386bec" width="200px"/>
       </a>
     </td>
-<!-- 디자이너 -->
+<!-- 디자이너 (세림) -->
     <td>
       <a href="https://sohnseirim.wixsite.com/portfolio">
         <img src="https://github.com/ConnectingChips/ConnectingChips-Front/assets/77181642/b5dff2ca-ba68-4afe-b705-08b92d386bec" width="200px"/>
@@ -88,7 +88,7 @@
     <td align="center">
         <a href="">효진</a>
     </td>
-<!-- 디자이너 -->
+<!-- 디자이너 (세림)-->
     <td align="center">
         <a href="https://sohnseirim.wixsite.com/portfolio">세림</a>
     </td>
