@@ -141,13 +141,13 @@
   </tr>
   <tr>
     <td>
-      <img width="300" src="../assets/회원가입.gif"/>
+      <img width="300" src="./assets/회원가입.gif"/>
     </td>
     <td>
-      <img width="300" src="../assets/로그인.gif"/>  
+      <img width="300" src="./assets/로그인.gif"/>  
     </td>
     <td>
-      <img width="300" src="../assets/회원가입.gif"/>
+      <img width="300" src="./assets/회원가입.gif"/>
     </td>
   </tr>
 </table>
@@ -161,13 +161,13 @@
   </tr>
   <tr>
     <td>
-      <img width="300" src="../assets/작심종류별조회.gif"/>  
+      <img width="300" src="./assets/작심종류별조회.gif"/>  
     </td>
     <td>
-      <img width="300" src="../assets/작심가입하기.gif"/>
+      <img width="300" src="./assets/작심가입하기.gif"/>
     </td>
     <td>
-      <img width="300" src="../assets/마이페이지현재작심과거작심조회.gif"/>
+      <img width="300" src="./assets/마이페이지현재작심과거작심조회.gif"/>
     </td>
   </tr>
 </table>
@@ -181,13 +181,13 @@
   </tr>
   <tr>
     <td>
-      <img width="300" src="../assets/작심인증하기.gif"/>
+      <img width="300" src="./assets/작심인증하기.gif"/>
     </td>
     <td>
-      <img width="300" src="../assets/인증작심에댓글달기.gif"/>  
+      <img width="300" src="./assets/인증작심에댓글달기.gif"/>  
     </td>
     <td>
-      <img width="300" src="../assets/과거작심재참여.gif"/>
+      <img width="300" src="./assets/과거작심재참여.gif"/>
     </td>
   </tr>
 </table>
