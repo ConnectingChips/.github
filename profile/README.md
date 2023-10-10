@@ -12,6 +12,7 @@
 * 기간: 23.08.14 ~ 진행중
 * 링크: (여기 서비스 링크 삽입)
 
+<br />
 
 ## 팀원 소개
 <table>
@@ -25,55 +26,55 @@
 
 <!-- 이미지 -->
   <tr>
-<!-- PM (준형) -->
+    <!-- PM (준형) -->
     <td>
       <a href="">
         <img src="https://github.com/ConnectingChips/ConnectingChips-Front/assets/77181642/902af3b9-8081-4905-9327-749439477c53" width="200px"/>
       </a>
     </td>
-<!-- PM (효진) -->
+    <!-- PM (효진) -->
     <td>
       <a href="">
         <img src="https://github.com/ConnectingChips/ConnectingChips-Front/assets/77181642/b5dff2ca-ba68-4afe-b705-08b92d386bec" width="200px"/>
       </a>
     </td>
-<!-- 디자이너 (세림) -->
+    <!-- 디자이너 (세림) -->
     <td>
       <a href="https://sohnseirim.wixsite.com/portfolio">
         <img src="https://github.com/ConnectingChips/ConnectingChips-Front/assets/77181642/b5dff2ca-ba68-4afe-b705-08b92d386bec" width="200px"/>
       </a>
     </td>
-<!-- FE (형욱) -->
+    <!-- FE (형욱) -->
     <td>
       <a href="https://github.com/Kadesti">
         <img src="https://avatars.githubusercontent.com/u/50021232?v=4" width="200px"/>
       </a>
     </td>
-<!-- FE (용주) -->
+    <!-- FE (용주) -->
     <td>
       <a href="https://github.com/pizzaYami">
         <img src="https://avatars.githubusercontent.com/u/50021232?v=4" width="200px"/>
       </a>
     </td>
-<!-- FE (강희) -->
+    <!-- FE (강희) -->
     <td>
       <a href="https://github.com/khkh0109">
         <img src="https://github.com/ConnectingChips/ConnectingChips-Front/assets/77181642/03ff0ce1-2358-49cf-b1fc-30d56f33ffbf" width="200px"/>
       </a>
     </td>
-<!-- BE (규리) -->
+    <!-- BE (규리) -->
     <td>
       <a href="https://github.com/bnfkim">
         <img src="https://github.com/ConnectingChips/ConnectingChips-Front/assets/77181642/278befb1-6982-4e6b-847a-2f2801725833" width="200px"/>
       </a>
     </td>
-<!-- BE (병선) -->
+    <!-- BE (병선) -->
     <td>
       <a href="https://github.com/SBSun">
         <img src="https://github.com/ConnectingChips/ConnectingChips-Front/assets/77181642/26819255-950c-4c68-b62f-46a40b42f59d" width="200px"/>
       </a>
     </td>
-<!-- BE (성수) -->
+    <!-- BE (성수) -->
     <td>
       <a href="https://github.com/HeWillGoTillTheEnd">
         <img src="https://github.com/ConnectingChips/ConnectingChips-Front/assets/77181642/b5dff2ca-ba68-4afe-b705-08b92d386bec" width="200px"/>
@@ -83,44 +84,46 @@
 
 <!-- 팀원 이름 -->
   <tr>
-<!-- PM (준형) -->
+    <!-- PM (준형) -->
     <td align="center">
         <a href="">준형</a>
     </td>
-<!-- PM (효진) -->
+    <!-- PM (효진) -->
     <td align="center">
         <a href="">효진</a>
     </td>
-<!-- 디자이너 (세림)-->
+    <!-- 디자이너 (세림)-->
     <td align="center">
         <a href="https://sohnseirim.wixsite.com/portfolio">세림</a>
     </td>
-<!-- FE (형욱) -->
+    <!-- FE (형욱) -->
     <td align="center">
         <a href="https://github.com/kdomo">형욱</a>
     </td>
-<!-- FE (용주) -->
+    <!-- FE (용주) -->
     <td align="center">
         <a href="https://github.com/pizzaYami">용주</a>
     </td>
-<!-- FE (강희) -->
+    <!-- FE (강희) -->
     <td align="center">
         <a href="https://github.com/khkh0109">강희</a>
     </td>
-<!-- BE (규리) -->
+    <!-- BE (규리) -->
     <td align="center">
         <a href="https://github.com/bnfkim">규리</a>
     </td>
-<!-- BE (병선) -->
+    <!-- BE (병선) -->
     <td align="center">
         <a href="https://github.com/SBSun">병선</a>
     </td>
-<!-- BE (성수) -->
+    <!-- BE (성수) -->
     <td align="center">
         <a href="https://github.com/HeWillGoTillTheEnd">성수</a>
     </td>
   </tr>
 </table>
+
+<br />
 
 ## 기술 스택 
 ### Front-end
@@ -129,20 +132,24 @@
 ### Back-end
 <img width="1020" alt="Back-end-stack" src="https://github.com/ConnectingChips/.github/assets/77181642/1c17b3ce-bd70-4ed6-a5ee-2df7b73a3862">
 
+<br />
+
 ## 아키텍쳐
 
+<br />
+
 ## 구현 기능
-<!-- 회원가입 / 로그인 / 카카오톡 공유하기 -->\
-|1. 회원가입| 2. 로그인|3. 카카오톡 공유하기|
+|1. 회원가입|2. 로그인|3. 카카오톡 공유하기|
 |:---:|:---:|:---:|
-|||
+|![회원가입](https://github.com/ConnectingChips/.github/assets/77181642/8016162e-0095-4dbf-8cd4-970924e04733)|![로그인](https://github.com/ConnectingChips/.github/assets/77181642/a632d60d-d9b9-4d62-9443-9580dc702f5f)|![카카오톡공유하기](https://github.com/ConnectingChips/.github/assets/77181642/5712b328-eade-4ae3-b400-7e69f9d8e80f)|
 
-<!-- 작심 종류 별 조회 / 작심 가입하기 / 참여중인 작심, 참여했던 작심 조회 -->
-|4. 작심 종류 별 조회| 5. 작심 가입하기|6. 참여중인 작심 / 참여했던 작심 조회|
+
+|4. 작심 종류 별 조회|5. 작심 가입하기|6. 참여중인 작심 / 참여했던 작심 조회|
 |:---:|:---:|:---:|
-|||
+|![작심종류별조회](https://github.com/ConnectingChips/.github/assets/77181642/013c5b6e-3b0f-41cb-a45d-1456774a6c4c)|![작심가입하기](https://github.com/ConnectingChips/.github/assets/77181642/733e64ea-2db4-420a-9427-46ff98d6521d)|![마이페이지현재작심과거작심조회](https://github.com/ConnectingChips/.github/assets/77181642/465ac1a6-f0e6-44b9-b8b8-ba8a972023a1)|
 
-<!-- 작심 인증하기 / 인증한 작심에 댓글 달기 / 작심 재참여하기 -->
+
 |7. 작심 인증하기|8. 인증한 작심에 댓글 달기|9. 작심 재참여하기|
 |:---:|:---:|:---:|
-|||
+|![작심인증하기](https://github.com/ConnectingChips/.github/assets/77181642/4d8dba4a-f4e9-4abb-97ff-41e3cad642fa)|![인증작심에댓글달기](https://github.com/ConnectingChips/.github/assets/77181642/1fbaae4d-396e-48ac-b6e2-a21611cd1168)|![과거작심재참여](https://github.com/ConnectingChips/.github/assets/77181642/a8f7fc58-eec1-4747-91d1-05fded26e176)|
+
