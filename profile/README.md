@@ -18,10 +18,10 @@
 <table>
 <!-- 팀 -->
   <tr>
-    <td align="center" colspan="2">PM</td>
-    <td align="center" colspan="1">디자이너</td>
-    <td align="center" colspan="3">프론트엔드</td>
-    <td align="center" colspan="3">백엔드</td>
+    <td align="center" colspan="2"><strong>PM</strong></td>
+    <td align="center" colspan="1"><strong>디자이너</strong></td>
+    <td align="center" colspan="3"><strong>프론트엔드</strong></td>
+    <td align="center" colspan="3"><strong>백엔드</strong></td>
   </tr>
 
 <!-- 이미지 -->
