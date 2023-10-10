@@ -122,8 +122,6 @@
   </tr>
 </table>
 
-## 구현 기능
-
 ## 기술 스택 
 ### Front-end
 <img width="1020" alt="Front-end-stack" src="https://github.com/ConnectingChips/.github/assets/77181642/c8329e93-96dc-4350-a331-f3d0dc7ea2c6">
@@ -132,3 +130,61 @@
 <img width="1020" alt="Back-end-stack" src="https://github.com/ConnectingChips/.github/assets/77181642/1c17b3ce-bd70-4ed6-a5ee-2df7b73a3862">
 
 ## 아키텍쳐
+
+## 구현 기능
+
+<table>
+<!-- 회원가입 / 로그인 / 카카오톡 공유하기 -->
+  <tr align="center">
+    <td><strong>1. 회원가입</strong></td>
+    <td><strong>2. 로그인</strong></td>
+    <td><strong>3. 카카오톡 공유하기</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img width="300" src="./assets/회원가입.gif"/>
+    </td>
+    <td>
+        <img width="300" src="./assets/로그인.gif"/>  
+    </td>
+    <td>
+      <img width="300" src="./assets/회원가입.gif"/>
+    </td>
+  </tr>
+
+  <!-- 작심 종류 별 조회 / 작심 가입하기 / 참여중인 작심, 참여했던 작심 조회 -->
+  <tr align="center">
+    <td><strong>4. 작심 종류 별 조회</strong></td>
+    <td><strong>5. 작심 가입하기</strong></td>
+    <td><strong>6. 참여중인 작심 / 참여했던 작심 조회</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img width="300" src="./assets/작심종류별조회.gif"/>  
+    </td>
+    <td>
+      <img width="300" src="./assets/작심가입하기.gif"/>
+    </td>
+    <td>
+      <img width="300" src="./assets/마이페이지현재작심과거작심조회.gif"/>
+    </td>
+  </tr>
+
+  <!-- 작심 인증하기 / 인증한 작심에 댓글 달기 / 작심 재참여하기 -->
+  <tr align="center">
+    <td><strong>7. 작심 인증하기</strong></td>
+    <td><strong>8. 인증한 작심에 댓글 달기</strong></td>
+    <td><strong>9. 작심 재참여하기</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img width="300" src="./assets/작심인증하기.gif"/>
+    </td>
+    <td>
+        <img width="300" src="./assets/인증작심에댓글달기.gif"/>  
+    </td>
+    <td>
+      <img width="300" src="./assets/과거작심재참여.gif"/>
+    </td>
+  </tr>
+</table>
