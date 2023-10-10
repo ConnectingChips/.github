@@ -125,5 +125,10 @@
 ## 구현 기능
 
 ## 기술 스택 
+### Front-end
+<img width="1020" alt="Front-end-stack" src="https://github.com/ConnectingChips/.github/assets/77181642/c8329e93-96dc-4350-a331-f3d0dc7ea2c6">
+
+### Back-end
+<img width="1020" alt="Back-end-stack" src="https://github.com/ConnectingChips/.github/assets/77181642/1c17b3ce-bd70-4ed6-a5ee-2df7b73a3862">
 
 ## 아키텍쳐
