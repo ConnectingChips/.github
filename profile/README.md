@@ -41,19 +41,19 @@
     <!-- 디자이너 (세림) -->
     <td>
       <a href="https://sohnseirim.wixsite.com/portfolio">
-        <img src="https://github.com/ConnectingChips/ConnectingChips-Front/assets/77181642/b5dff2ca-ba68-4afe-b705-08b92d386bec" width="200px"/>
+        <img src="https://github.com/ConnectingChips/.github/assets/77181642/192fa411-886d-4ba8-a774-1c08c4e7016f" width="200px"/>
       </a>
     </td>
     <!-- FE (형욱) -->
     <td>
       <a href="https://github.com/Kadesti">
-        <img src="https://avatars.githubusercontent.com/u/50021232?v=4" width="200px"/>
+        <img src="https://github.com/ConnectingChips/.github/assets/77181642/04c91492-d056-4809-b9ca-7992d1901981" width="200px"/>
       </a>
     </td>
     <!-- FE (용주) -->
     <td>
       <a href="https://github.com/pizzaYami">
-        <img src="https://avatars.githubusercontent.com/u/50021232?v=4" width="200px"/>
+        <img src="https://github.com/ConnectingChips/.github/assets/77181642/7ca15d7a-5ea4-44c6-8fbc-4fabc65d1940" width="200px"/>
       </a>
     </td>
     <!-- FE (강희) -->
@@ -77,7 +77,7 @@
     <!-- BE (성수) -->
     <td>
       <a href="https://github.com/HeWillGoTillTheEnd">
-        <img src="https://github.com/ConnectingChips/ConnectingChips-Front/assets/77181642/b5dff2ca-ba68-4afe-b705-08b92d386bec" width="200px"/>
+        <img src="https://github.com/ConnectingChips/.github/assets/77181642/dd63c838-0ca7-42fb-a3c7-3c2574dc5c8d" width="200px"/>
       </a>
     </td>
   </tr>
