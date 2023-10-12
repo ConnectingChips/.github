@@ -28,15 +28,11 @@
   <tr>
     <!-- PM (준형) -->
     <td>
-      <a href="">
-        <img src="https://github.com/ConnectingChips/ConnectingChips-Front/assets/77181642/902af3b9-8081-4905-9327-749439477c53" width="200px"/>
-      </a>
+      <img src="https://github.com/ConnectingChips/.github/assets/77181642/f81ca037-251f-47af-ac9c-63e46fa9f17d" width="200px"/>
     </td>
     <!-- PM (효진) -->
     <td>
-      <a href="">
-        <img src="https://github.com/ConnectingChips/ConnectingChips-Front/assets/77181642/b5dff2ca-ba68-4afe-b705-08b92d386bec" width="200px"/>
-      </a>
+      <img src="https://github.com/ConnectingChips/.github/assets/77181642/41dd8999-d805-4e8f-b3bd-b1c991c965f8" width="200px"/>
     </td>
     <!-- 디자이너 (세림) -->
     <td>
@@ -86,11 +82,11 @@
   <tr>
     <!-- PM (준형) -->
     <td align="center">
-        <a href="">준형</a>
+      준형
     </td>
     <!-- PM (효진) -->
     <td align="center">
-        <a href="">효진</a>
+      효진
     </td>
     <!-- 디자이너 (세림)-->
     <td align="center">
